@@ -11,3 +11,9 @@
 - Membangun image classification pada gambar chessman
 - Penerapan Transfer Learning dg memanggil kelas ResNet152V2
 - Penerapan Style Transfer
+
+## Hal yang terlah dipelajari 03 Januari 2024
+- Proyek NLP Tensorflow Multiclass Text Classification
+- Penggunaan Embedding
+- LSTM
+- Implementasi Tokenazing dan Sequences
