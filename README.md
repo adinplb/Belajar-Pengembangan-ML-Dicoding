@@ -17,3 +17,6 @@
 - Penggunaan Embedding
 - LSTM
 - Implementasi Tokenazing dan Sequences
+
+## Hal yang terlah dipelajari 05 Januari 2024
+- Latihan Time Series dg LSTM
