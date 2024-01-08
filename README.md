@@ -20,3 +20,8 @@
 
 ## Hal yang terlah dipelajari 05 Januari 2024
 - Latihan Time Series dg LSTM
+
+
+## Hal yang terlah dipelajari 09 Januari 2024
+- Reinforcement Learning
+- Proyek Kedua Time Series
